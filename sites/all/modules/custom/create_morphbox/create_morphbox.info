@@ -1,0 +1,3 @@
+name = Morpholgocial Box
+description = Module for creating morphological terms that are used in morphsearch
+core = 7.x

@@ -1,0 +1,36 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: julien
+ * Date: 15.03.18
+ * Time: 21:37
+ */
+
+
+/**
+ * Implements hook_menu()
+ * @return mixed
+ */
+function d3_network_aachen_menu() {
+    $items['d3/network_aachen'] = array(
+        'title' => 'Netzwerkanalyse',
+        'description' => 'Netzwerkanalyse visualisiert',
+        'access callback' => TRUE,
+        'page callback' => 'd3_network_aachen',
+        'type' => MENU_LOCAL_TASK,
+    );
+
+    return $items;
+}
+
+
+
+function d3_network_aachen() {
+    $chart = array(
+        'id' => 'visualization',
+        'type' => 'network_aachen',
+
+    );
+
+    return d3_draw($chart);
+}

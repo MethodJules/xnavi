@@ -1,0 +1,25 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: julien
+ * Date: 11.05.18
+ * Time: 16:18
+ */
+
+
+/**
+ * Implements hook_menu().
+ */
+function create_morphbox_menu()
+{
+    $items['morphbox/create'] = array(
+        'title' => t('Create morphbox'),
+        'description' => t('Create morphbox vocabular'),
+        'access callback' => array(TRUE),
+        'page callback' => 'create_morphbox',
+        'file' => 'create_morphbox_form.inc'
+
+    );
+
+    return $items;
+}

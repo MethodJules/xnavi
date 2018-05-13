@@ -1,0 +1,77 @@
+<?php
+// in allen nodes wird ein button eingefügt
+//add to a node a button add2Ebook
+
+function epub_node_view($node, $view_mode, $langcode) {
+
+    //dpm($view_mode);
+  //button nur anzeigen wenn view_mode full(node only loaded)
+    if($view_mode == 'full'){
+      $form = drupal_get_form('redirect_button_form');
+      //dpm($node);
+      $node->content['redirect_button'] = $form;
+    }
+}
+
+// funktion die einen Button als form implentiert
+function redirect_button_form($form, &$form_submit) {
+
+    $form['submit'] = array(
+        '#type' => 'submit',
+        '#value' => t('addToEbook'),
+        '#submit' => array('saveNid_callback'),
+
+    );
+
+    return $form;
+}
+
+
+/**
+ * Implements hook_form_alter().
+ */
+/*
+function epub_form_alter(&$form, &$form_state, $form_id){
+    if($form_id == 'redirect_button_form') {
+        $form['actions']['submit']['#type'] = 'image_button';
+        $form['actions']['submit']['#src'] = base_path() .
+            drupal_get_path('theme', 'indeko7') . '/images/atlaslogo2.png';
+        $form['actions']['submit']['#name'] = 'op';
+    }
+}
+*/
+
+module_load_include('inc', 'epub', 'HelperFunctions');
+
+function epub_menu() {
+
+    if (!empty($_SESSION['nid'])) {
+        $testTitle = count($_SESSION['nid']);
+        
+    } else {
+        $testTitle = 0;
+    }
+    $items['epub/show_nodes'] = array(
+
+        'title' => 'EPub:'.$testTitle ,
+        'page callback' => 'drupal_get_form',
+        'page arguments' => array('epub_show_nodes_form'),
+        'access callback' => TRUE,
+        'type' => MENU_NORMAL_ITEM,
+        'menu_name' => 'main-menu',
+        'file' =>'epub.admin.inc'
+    );
+
+    $items['admin/epub/download'] = array(
+
+        'title' => 'Download',
+        'page callback' => 'epub_create_epub',
+        'access callback' => TRUE,
+        'type' => MENU_NORMAL_ITEM,
+        'file' =>'epub_create_epub.inc',
+    );
+    return $items;
+
+}
+
+?>

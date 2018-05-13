@@ -1,0 +1,6 @@
+core = "7.x"
+description = "A module for adding nodes as ePub"
+name = "epub"
+files[] = epub.module
+package = x.Navi
+

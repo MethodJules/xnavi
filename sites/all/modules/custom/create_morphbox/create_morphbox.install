@@ -1,0 +1,18 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: julien
+ * Date: 11.05.18
+ * Time: 18:06
+ */
+
+/**
+ * Implements hook_uninstall
+ */
+function create_morphbox_uninstall() {
+    //TODO Funktion schreiben, die ermittelt welche vocabularies von diesem Modul installiert wurden
+    //TODO Funktion auffrufen
+
+    $vocab = taxonomy_vocabulary_machine_name_load('my_new_vocab');
+    taxonomy_vocabulary_delete($vocab->vid);
+}

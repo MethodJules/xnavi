@@ -1,0 +1,281 @@
+ Package                              Name                                                                     Typ     Status         Version              
+ Access control                       Nodeaccess (nodeaccess)                                                  Module  Enabled        7.x-1.4              
+ Administration                       Actions permissions (VBO) (actions_permissions)                          Module  Enabled        7.x-3.3              
+ Administration                       Administration Development tools (admin_devel)                           Module  Not installed  7.x-3.0-rc5          
+ Administration                       Administration menu (admin_menu)                                         Module  Enabled        7.x-3.0-rc5          
+ Administration                       Administration menu Toolbar style (admin_menu_toolbar)                   Module  Enabled        7.x-3.0-rc5          
+ Administration                       Module Missing Message Fixer (module_missing_message_fixer)              Module  Not installed  7.x-1.2              
+ Atlas                                Comments Shortener (comments_shortener)                                  Module  Enabled                             
+ Atlas                                Dynamic node creation links (node_creation_links)                        Module  Enabled                             
+ Atlas                                Publication Form (publication_form)                                      Module  Enabled                             
+ Atlas                                Slider Tooltip (slider_tooltip)                                          Module  Enabled                             
+ Atlas                                User Profile Elements Overview (user_profile_elements_overview)          Module  Enabled                             
+ Biblio                               Biblio (biblio)                                                          Module  Enabled        7.x-1.0-rc7          
+ Biblio                               Biblio - BibTex (biblio_bibtex)                                          Module  Enabled        7.x-1.0-rc7          
+ Biblio                               Biblio - CiteProc (biblio_citeproc)                                      Module  Enabled        7.x-1.0-rc7          
+ Biblio                               Biblio - Crossref (biblio_crossref)                                      Module  Enabled        7.x-1.0-rc7          
+ Biblio                               Biblio - EndNote Tagged (biblio_tagged)                                  Module  Not installed  7.x-1.0-rc7          
+ Biblio                               Biblio - EndNote XML (biblio_xml)                                        Module  Not installed  7.x-1.0-rc7          
+ Biblio                               Biblio - MARC (biblio_marc)                                              Module  Not installed  7.x-1.0-rc7          
+ Biblio                               Biblio - PubMed (biblio_pm)                                              Module  Not installed  7.x-1.0-rc7          
+ Biblio                               Biblio - RIS (biblio_ris)                                                Module  Enabled        7.x-1.0-rc7          
+ Biblio                               Biblio - RTF (biblio_rtf)                                                Module  Enabled        7.x-1.0-rc7          
+ Chaos tool suite                     Bulk Export (bulk_export)                                                Module  Not installed  7.x-1.12             
+ Chaos tool suite                     Chaos tools (ctools)                                                     Module  Enabled        7.x-1.12             
+ Chaos tool suite                     Chaos Tools (CTools) AJAX Example (ctools_ajax_sample)                   Module  Not installed  7.x-1.12             
+ Chaos tool suite                     Chaos Tools (CTools) Plugin Example (ctools_plugin_example)              Module  Not installed  7.x-1.12             
+ Chaos tool suite                     Custom content panes (ctools_custom_content)                             Module  Enabled        7.x-1.12             
+ Chaos tool suite                     Custom rulesets (ctools_access_ruleset)                                  Module  Not installed  7.x-1.12             
+ Chaos tool suite                     Page manager (page_manager)                                              Module  Enabled        7.x-1.12             
+ Chaos tool suite                     Stylizer (stylizer)                                                      Module  Not installed  7.x-1.12             
+ Chaos tool suite                     Term Depth access (term_depth)                                           Module  Enabled        7.x-1.12             
+ Chaos tool suite                     Views content panes (views_content)                                      Module  Enabled        7.x-1.12             
+ Contact Forms                        Contact Forms (contact_forms)                                            Module  Enabled        7.x-1.8              
+ Contact Forms                        Contact Forms Translation (contact_forms_int)                            Module  Not installed  7.x-1.8              
+ Core                                 Aggregator (aggregator)                                                  Module  Not installed  7.53                 
+ Core                                 Block (block)                                                            Module  Enabled        7.53                 
+ Core                                 Blog (blog)                                                              Module  Not installed  7.53                 
+ Core                                 Book (book)                                                              Module  Not installed  7.53                 
+ Core                                 Color (color)                                                            Module  Enabled        7.53                 
+ Core                                 Comment (comment)                                                        Module  Enabled        7.53                 
+ Core                                 Contact (contact)                                                        Module  Enabled        7.53                 
+ Core                                 Content translation (translation)                                        Module  Enabled        7.53                 
+ Core                                 Contextual links (contextual)                                            Module  Enabled        7.53                 
+ Core                                 Dashboard (dashboard)                                                    Module  Enabled        7.53                 
+ Core                                 Database logging (dblog)                                                 Module  Enabled        7.53                 
+ Core                                 Field (field)                                                            Module  Enabled        7.53                 
+ Core                                 Field SQL storage (field_sql_storage)                                    Module  Enabled        7.53                 
+ Core                                 Field UI (field_ui)                                                      Module  Enabled        7.53                 
+ Core                                 File (file)                                                              Module  Enabled        7.53                 
+ Core                                 Filter (filter)                                                          Module  Enabled        7.53                 
+ Core                                 Forum (forum)                                                            Module  Enabled        7.53                 
+ Core                                 Help (help)                                                              Module  Enabled        7.53                 
+ Core                                 Image (image)                                                            Module  Enabled        7.53                 
+ Core                                 List (list)                                                              Module  Enabled        7.53                 
+ Core                                 Locale (locale)                                                          Module  Enabled        7.53                 
+ Core                                 Menu (menu)                                                              Module  Enabled        7.53                 
+ Core                                 Node (node)                                                              Module  Enabled        7.53                 
+ Core                                 Number (number)                                                          Module  Enabled        7.53                 
+ Core                                 OpenID (openid)                                                          Module  Not installed  7.53                 
+ Core                                 Options (options)                                                        Module  Enabled        7.53                 
+ Core                                 Overlay (overlay)                                                        Module  Enabled        7.53                 
+ Core                                 Path (path)                                                              Module  Enabled        7.53                 
+ Core                                 PHP filter (php)                                                         Module  Enabled        7.53                 
+ Core                                 Poll (poll)                                                              Module  Not installed  7.53                 
+ Core                                 RDF (rdf)                                                                Module  Enabled        7.53                 
+ Core                                 Search (search)                                                          Module  Enabled        7.53                 
+ Core                                 Shortcut (shortcut)                                                      Module  Enabled        7.53                 
+ Core                                 Statistics (statistics)                                                  Module  Not installed  7.53                 
+ Core                                 Syslog (syslog)                                                          Module  Enabled        7.53                 
+ Core                                 System (system)                                                          Module  Enabled        7.53                 
+ Core                                 Taxonomy (taxonomy)                                                      Module  Enabled        7.53                 
+ Core                                 Testing (simpletest)                                                     Module  Not installed  7.53                 
+ Core                                 Text (text)                                                              Module  Enabled        7.53                 
+ Core                                 Toolbar (toolbar)                                                        Module  Not installed  7.53                 
+ Core                                 Tracker (tracker)                                                        Module  Not installed  7.53                 
+ Core                                 Trigger (trigger)                                                        Module  Enabled        7.53                 
+ Core                                 Update manager (update)                                                  Module  Enabled        7.53                 
+ Core                                 User (user)                                                              Module  Enabled        7.53                 
+ Date/Time                            Calendar (calendar)                                                      Module  Enabled        7.x-3.5              
+ Date/Time                            Date (date)                                                              Module  Enabled        7.x-2.9              
+ Date/Time                            Date All Day (date_all_day)                                              Module  Enabled        7.x-2.9              
+ Date/Time                            Date API (date_api)                                                      Module  Enabled        7.x-2.9              
+ Date/Time                            Date Context (date_context)                                              Module  Not installed  7.x-2.9              
+ Date/Time                            Date iCal (date_ical)                                                    Module  Enabled        7.x-3.9              
+ Date/Time                            Date Popup (date_popup)                                                  Module  Enabled        7.x-2.9              
+ Date/Time                            Date Repeat API (date_repeat)                                            Module  Enabled        7.x-2.9              
+ Date/Time                            Date Repeat Field (date_repeat_field)                                    Module  Enabled        7.x-2.9              
+ Date/Time                            Date Tools (date_tools)                                                  Module  Enabled        7.x-2.9              
+ Date/Time                            Date Views (date_views)                                                  Module  Enabled        7.x-2.9              
+ Development                          Devel (devel)                                                            Module  Enabled        7.x-1.5              
+ Development                          Devel generate (devel_generate)                                          Module  Not installed  7.x-1.5              
+ Development                          Devel node access (devel_node_access)                                    Module  Not installed  7.x-1.5              
+ Display Suite                        Display Suite (ds)                                                       Module  Enabled        7.x-2.14             
+ Display Suite                        Display Suite Devel (ds_devel)                                           Module  Not installed  7.x-2.14             
+ Display Suite                        Display Suite Extras (ds_extras)                                         Module  Enabled        7.x-2.14             
+ Display Suite                        Display Suite Format (ds_format)                                         Module  Enabled        7.x-2.14             
+ Display Suite                        Display Suite Forms (ds_forms)                                           Module  Enabled        7.x-2.14             
+ Display Suite                        Display Suite Search (ds_search)                                         Module  Enabled        7.x-2.14             
+ Display Suite                        Display Suite UI (ds_ui)                                                 Module  Enabled        7.x-2.14             
+ Drupal                               Hook Post Action (hook_post_action)                                      Module  Enabled        7.x-1.0-beta2        
+ Drupal                               Hook Post Action Example (hook_post_action_example)                      Module  Not installed  7.x-1.0-beta2        
+ Entity Connect                       Entity Connect (entityconnect)                                           Module  Enabled        7.x-2.0-rc1          
+ Entity Connect                       Entity Connect and Bean bridge. (entityconnect_bean)                     Module  Not installed  7.x-2.0-rc1          
+ Entity Connect                       Entity Connect and ECK bridge. (entityconnect_eck)                       Module  Not installed  7.x-2.0-rc1          
+ Entity Connect                       Entity Connect and Term Reference field. (entityconnect_term_reference)  Module  Enabled        7.x-2.0-rc1          
+ Example modules                      Mime Mail Example (mimemail_example)                                     Module  Not installed  7.x-1.0-beta4        
+ Features                             Date Migration Example (date_migrate_example)                            Module  Not installed  7.x-2.9              
+ Features                             OG example (og_example)                                                  Module  Not installed  7.x-2.9              
+ Features                             UUID Services Example (uuid_services_example)                            Module  Not installed  7.x-1.0              
+ Feeds                                Feeds (feeds)                                                            Module  Enabled        7.x-2.0-beta3        
+ Feeds                                Feeds Admin UI (feeds_ui)                                                Module  Enabled        7.x-2.0-beta3        
+ Feeds                                Feeds Import (feeds_import)                                              Module  Not installed  7.x-2.0-beta3        
+ Feeds                                Feeds News (feeds_news)                                                  Module  Not installed  7.x-2.0-beta3        
+ Fields                               Address Field (addressfield)                                             Module  Enabled        7.x-1.2              
+ Fields                               Conditional Fields (conditional_fields)                                  Module  Enabled        7.x-3.0-alpha2       
+ Fields                               Corresponding Entity References (cer)                                    Module  Not installed  7.x-3.0-alpha7       
+ Fields                               Entity Reference (entityreference)                                       Module  Enabled        7.x-1.2              
+ Fields                               Entity Reference Behavior Example (entityreference_behavior_example)     Module  Not installed  7.x-1.2              
+ Fields                               Field Group (field_group)                                                Module  Enabled        7.x-1.5              
+ Fields                               Field Validation (field_validation)                                      Module  Enabled        7.x-2.6              
+ Fields                               Field validation extras (field_validation_extras)                        Module  Enabled        7.x-2.6              
+ Fields                               Field Validation UI (field_validation_ui)                                Module  Enabled        7.x-2.6              
+ Fields                               Geofield (geofield)                                                      Module  Enabled        7.x-2.3              
+ Fields                               Link (link)                                                              Module  Enabled        7.x-1.4              
+ Fields                               Multiupload Filefield Widget (multiupload_filefield_widget)              Module  Enabled        7.x-1.13             
+ Fields                               Multiupload Imagefield Widget (multiupload_imagefield_widget)            Module  Enabled        7.x-1.3              
+ Fields                               Property Validation (property_validation)                                Module  Not installed  7.x-2.6              
+ FlexSlider                           FlexSlider (flexslider)                                                  Module  Enabled        7.x-2.0-rc1          
+ FlexSlider                           FlexSlider Example (flexslider_example)                                  Module  Not installed  7.x-2.0-rc1          
+ FlexSlider                           FlexSlider Fields (flexslider_fields)                                    Module  Enabled        7.x-2.0-rc1          
+ FlexSlider                           FlexSlider Views Style (flexslider_views)                                Module  Enabled        7.x-2.0-rc1          
+ Image                                Image Gallery (image_gallery)                                            Module  Not installed  7.x-1.x-dev          
+ Image                                Image Import (image_import)                                              Module  Not installed  7.x-1.x-dev          
+ Image                                Image legacy (image_legacy)                                              Module  Not installed  7.x-1.x-dev          
+ Image                                ImageMagick Advanced Options (image_im_advanced)                         Module  Not installed  7.x-1.x-dev          
+ Input filters                        Relative to Absolute Filter (rel_to_abs)                                 Module  Enabled        7.x-1.6              
+ Knowledge Map                        form_wissenskarte_module (form_wissenskarte_module)                      Module  Enabled                             
+ Knowledge Map                        Image Map Resizer (imagemap_resizer)                                     Module  Enabled                             
+ Knowledge Map                        jQuery Maphilight (ATLAS VERSION) (jq_maphilight)                        Module  Enabled                             
+ Mail                                 Mail System (mailsystem)                                                 Module  Enabled        7.x-2.34             
+ Mail                                 Mime Mail (mimemail)                                                     Module  Enabled        7.x-1.0-beta4        
+ Mail                                 Mime Mail Action (mimemail_action)                                       Module  Enabled        7.x-1.0-beta4        
+ Mail                                 Mime Mail CSS Compressor (mimemail_compress)                             Module  Enabled        7.x-1.0-beta4        
+ Mail                                 SMTP Authentication Support (smtp)                                       Module  Enabled        7.x-1.6              
+ Media                                File Entity (file_entity)                                                Module  Enabled        7.x-2.0-beta3        
+ Media                                Imagepicker (imagepicker)                                                Module  Not installed  7.x-1.8              
+ Media                                IMCE (imce)                                                              Module  Enabled        7.x-1.10             
+ Media                                Media (media)                                                            Module  Enabled        7.x-2.0-rc3          
+ Media                                Media Bulk Upload (media_bulk_upload)                                    Module  Not installed  7.x-2.0-rc3          
+ Media                                Media Field (mediafield)                                                 Module  Not installed  7.x-2.0-rc3          
+ Media                                Media Internet Sources (media_internet)                                  Module  Not installed  7.x-2.0-rc3          
+ Media                                Media WYSIWYG (media_wysiwyg)                                            Module  Enabled        7.x-2.0-rc3          
+ Media                                Media WYSIWYG View Mode (media_wysiwyg_view_mode)                        Module  Not installed  7.x-2.0-rc3          
+ MegaDrupal                           MD Slider (md_slider)                                                    Module  Enabled        7.x-2.18             
+ Multilingual                         Localization update (l10n_update)                                        Module  Enabled        7.x-2.1              
+ Multilingual - Internationalization  Rules translation (rules_i18n)                                           Module  Not installed  7.x-2.9              
+ Node export                          Node export (node_export)                                                Module  Enabled        7.x-3.1              
+ Node export                          Node export book (node_export_book)                                      Module  Not installed  7.x-3.1              
+ Node export                          Node export dependency (experimental) (node_export_dependency)           Module  Not installed  7.x-3.1              
+ Node export                          Node export features (node_export_features)                              Module  Not installed  7.x-3.1              
+ Node export                          Node Export Features UI (node_export_features_ui)                        Module  Not installed  7.x-3.1              
+ Node export                          Node export feeds (node_export_feeds)                                    Module  Not installed  7.x-3.1              
+ Node export                          Node export relation (deprecated) (node_export_relation)                 Module  Not installed  7.x-3.1              
+ Organic groups                       Organic groups (og)                                                      Module  Enabled        7.x-2.9              
+ Organic groups                       Organic groups access control (og_access)                                Module  Enabled        7.x-2.9              
+ Organic groups                       Organic groups context (og_context)                                      Module  Enabled        7.x-2.9              
+ Organic groups                       Organic groups field access (og_field_access)                            Module  Enabled        7.x-2.9              
+ Organic groups                       Organic groups register (og_register)                                    Module  Enabled        7.x-2.9              
+ Organic groups                       Organic groups subgroups (og_subgroups)                                  Module  Enabled        7.x-2.0              
+ Organic groups                       Organic groups UI (og_ui)                                                Module  Enabled        7.x-2.9              
+ Other                                bi_visual (bi_visual)                                                    Module  Enabled                             
+ Other                                CER Commerce (cer_commerce)                                              Module  Not installed  7.x-3.0-alpha7       
+ Other                                CER Entity Settings (cer_entity_settings)                                Module  Not installed  7.x-3.0-alpha7       
+ Other                                CER Inline Entity Form (cer_ief)                                         Module  Not installed  7.x-3.0-alpha7       
+ Other                                CER Profile2 (cer_profile2)                                              Module  Not installed  7.x-3.0-alpha7       
+ Other                                Custom Error (customerror)                                               Module  Not installed  7.x-1.4              
+ Other                                Custom error alternate for authenticated (customerroralt)                Module  Not installed  7.x-1.4              
+ Other                                Disable messages (disable_messages)                                      Module  Enabled        7.x-1.1              
+ Other                                Elements (elements)                                                      Module  Disabled       7.x-1.4              
+ Other                                email_verteiler (email_verteiler)                                        Module  Enabled                             
+ Other                                Entity API (entity)                                                      Module  Enabled        7.x-1.8              
+ Other                                Entity tokens (entity_token)                                             Module  Enabled        7.x-1.8              
+ Other                                FAQ Field (faqfield)                                                     Module  Enabled        7.x-1.4              
+ Other                                Field Object (field_object)                                              Module  Enabled        7.x-3.0-alpha7       
+ Other                                Font Awesome (fontawesome)                                               Module  Enabled        7.x-2.6              
+ Other                                form_meetup (form_meetup)                                                Module  Enabled                             
+ Other                                Geocoder (geocoder)                                                      Module  Enabled        7.x-1.3              
+ Other                                Geofield Map (geofield_map)                                              Module  Not installed  7.x-2.3              
+ Other                                Geolocation Generator (ip_geoloc_generator)                              Module  Not installed  7.x-1.30             
+ Other                                geoPHP (geophp)                                                          Module  Enabled        7.x-1.7              
+ Other                                Image Download Formatter (image_download_formatter)                      Module  Enabled        7.x-1.0              
+ Other                                Image Migrate (image_migrate)                                            Module  Not installed  7.x-1.x-dev          
+ Other                                Image Migrate Example (image_migrate_example)                            Module  Not installed  7.x-1.x-dev          
+ Other                                Image Swap Block (imageswapblock)                                        Module  Enabled                             
+ Other                                InDeKo Map filter extensions (map_filters)                               Module  Enabled                             
+ Other                                InDeKoNews (indekonews)                                                  Module  Enabled                             
+ Other                                indekonews_conversion (indekonews_conversion)                            Module  Enabled                             
+ Other                                interestedGroups (interestedGroups)                                      Module  Enabled                             
+ Other                                IP Geolocation Views & Maps (ip_geoloc)                                  Module  Enabled        7.x-1.30             
+ Other                                Job Scheduler (job_scheduler)                                            Module  Enabled        7.x-2.0-alpha3       
+ Other                                Job Scheduler Trigger (job_scheduler_trigger)                            Module  Not installed  7.x-2.0-alpha3       
+ Other                                Leaflet (leaflet)                                                        Module  Enabled        7.x-1.3              
+ Other                                Leaflet Markercluster (leaflet_markercluster)                            Module  Enabled        7.x-1.2              
+ Other                                Leaflet views (leaflet_views)                                            Module  Enabled        7.x-1.3              
+ Other                                Libraries (libraries)                                                    Module  Enabled        7.x-2.3              
+ Other                                Meetup Email Sending (meetup_email_sending)                              Module  Not installed                       
+ Other                                Menu Firstchild (menu_firstchild)                                        Module  Enabled        7.x-1.1              
+ Other                                Netzwerk (network)                                                       Module  Enabled                             
+ Other                                news trigger (news_trigger)                                              Module  Enabled                             
+ Other                                Node clone (clone)                                                       Module  Enabled        7.x-1.0              
+ Other                                node_creation (node_creation)                                            Module  Enabled                             
+ Other                                NodeMerge (nodeMerge)                                                    Module  Enabled                             
+ Other                                Pathauto (pathauto)                                                      Module  Enabled        7.x-1.3              
+ Other                                Redirect 403 to User Login (r4032login)                                  Module  Enabled        7.x-1.8              
+ Other                                redirection after login (redirection_after_login)                        Module  Enabled                             
+ Other                                Special menu items (special_menu_items)                                  Module  Enabled        7.x-2.0              
+ Other                                Token (token)                                                            Module  Enabled        7.x-1.6              
+ Other                                xnavi_fokus (xnavi_fokus)                                                Module  Enabled                             
+ Pdf                                  TCPDF (tcpdf)                                                            Module  Enabled        7.x-1.0-beta1        
+ Pdf                                  TCPDF Example (tcpdf_example)                                            Module  Not installed  7.x-1.0-beta1        
+ Registration                         Registration (registration)                                              Module  Enabled        7.x-1.6              
+ Registration                         Registration Entity Access (registration_entity_access)                  Module  Enabled        7.x-1.6              
+ Registration                         Registration Views (registration_views)                                  Module  Enabled        7.x-1.6              
+ Registration                         Registration Wait list (registration_waitlist)                           Module  Enabled        7.x-1.6              
+ Rules                                Rules (rules)                                                            Module  Enabled        7.x-2.9              
+ Rules                                Rules Scheduler (rules_scheduler)                                        Module  Enabled        7.x-2.9              
+ Rules                                Rules UI (rules_admin)                                                   Module  Enabled        7.x-2.9              
+ Search                               Atlas Apache Solr Sort Block (morphsearch_sort)                          Module  Enabled                             
+ Search                               Atlas search result CSV export (morphsearch_csv_export)                  Module  Enabled                             
+ Search                               Morphsearch (morphsearch)                                                Module  Enabled                             
+ Search                               Related Search (morphsearch_related_search)                              Module  Enabled                             
+ Search                               Search Result Block (morphsearch_searchresults)                          Module  Enabled                             
+ Search Toolkit                       Apache Solr Access (apachesolr_access)                                   Module  Not installed  7.x-1.8              
+ Search Toolkit                       Apache Solr framework (apachesolr)                                       Module  Enabled        7.x-1.8              
+ Search Toolkit                       Apache Solr Real Time (apachesolr_realtime)                              Module  Enabled        7.x-1.2              
+ Search Toolkit                       Apache Solr Real Time Reports (apachesolr_realtime_reports)              Module  Not installed  7.x-1.2              
+ Search Toolkit                       Apache Solr search (apachesolr_search)                                   Module  Enabled        7.x-1.8              
+ Search Toolkit                       Apache Solr Views integration (apachesolr_views)                         Module  Enabled        7.x-1.1-beta1        
+ Services                             Services (services)                                                      Module  Enabled        7.x-3.18             
+ Services - authentication            OAuth Authentication (services_oauth)                                    Module  Not installed  7.x-3.18             
+ Services - resources                 UUID Services (uuid_services)                                            Module  Not installed  7.x-1.0              
+ Services - servers                   REST Server (rest_server)                                                Module  Not installed  7.x-3.18             
+ Services - servers                   XMLRPC Server (xmlrpc_server)                                            Module  Not installed  7.x-3.18             
+ Spam control                         CAPTCHA (captcha)                                                        Module  Enabled        7.x-1.3              
+ Spam control                         Image CAPTCHA (image_captcha)                                            Module  Enabled        7.x-1.3              
+ Statistics                           Open Web Analytics (owa)                                                 Module  Not installed  7.x-1.0-alpha2       
+ Statistics                           Piwik Web Analytics (piwik)                                              Module  Enabled        7.x-2.9              
+ User interface                       Chosen (chosen)                                                          Module  Enabled        7.x-2.0              
+ User interface                       CKEditor for WYSIWYG (ckeditor)                                          Module  Not installed  7.x-1.0-beta1        
+ User interface                       IMCE Wysiwyg API bridge (imce_wysiwyg)                                   Module  Enabled        7.x-1.0              
+ User interface                       jQuery Autosize (jquery_autosize)                                        Module  Enabled        7.x-1.x-dev          
+ User interface                       jQuery Update (jquery_update)                                            Module  Enabled        7.x-3.0-alpha3       
+ User interface                       Responsive Menus (responsive_menus)                                      Module  Enabled        7.x-1.5              
+ User interface                       Wysiwyg (wysiwyg)                                                        Module  Enabled        7.x-2.3              
+ UUID                                 Universally Unique ID (uuid)                                             Module  Enabled        7.x-1.0              
+ UUID                                 UUID Path (uuid_path)                                                    Module  Not installed  7.x-1.0              
+ Views                                Views (views)                                                            Module  Enabled        7.x-3.14             
+ Views                                Views Bulk Operations (views_bulk_operations)                            Module  Enabled        7.x-3.3              
+ Views                                Views UI (views_ui)                                                      Module  Enabled        7.x-3.14             
+ Visualization                        D3 (d3)                                                                  Module  Enabled        7.x-1.0-alpha2+3-dev 
+ Visualization                        D3 Examples (d3_examples)                                                Module  Enabled        7.x-1.0-alpha2+3-dev 
+ Visualization                        D3 Kompetenz Words (d3_kompetenz_words)                                  Module  Enabled        7.x-1.0-alpha2+3-dev 
+ Visualization                        D3 Network Aachen (d3_network_aachen)                                    Module  Enabled        7.x-1.0-alpha2+3-dev 
+ Visualization                        D3 Views (d3_views)                                                      Module  Not installed  7.x-1.0-alpha2+3-dev 
+ Voting                               Fivestar (fivestar)                                                      Module  Enabled        7.x-2.2              
+ Voting                               Half Star (halfstar)                                                     Module  Enabled        7.x-1.1              
+ Voting                               Voting API (votingapi)                                                   Module  Enabled        7.x-2.12             
+ Webform                              Permissions per Webform (permissions_per_webform)                        Module  Enabled        7.x-1.0-alpha1       
+ Webform                              Webform (webform)                                                        Module  Enabled        7.x-4.14             
+ Webform                              Webform Hints (webform_hints)                                            Module  Enabled        7.x-1.5              
+ Webform                              Webform Rules (webform_rules)                                            Module  Enabled        7.x-1.6              
+ Workbench                            Workbench (workbench)                                                    Module  Enabled        7.x-1.2              
+ Andere                               AT Admin (adaptivetheme_admin)                                           Theme   Enabled        7.x-3.4              
+ Andere                               AT Core (adaptivetheme)                                                  Theme   Enabled        7.x-3.2              
+ Andere                               AT Subtheme (adaptivetheme_subtheme)                                     Theme   Enabled        7.x-3.4              
+ Andere                               indeko7 (indeko7)                                                        Theme   Enabled        7.x-3.2              
+ Core                                 Bartik (bartik)                                                          Theme   Enabled        7.53                 
+ Core                                 Garland (garland)                                                        Theme   Disabled       7.53                 
+ Core                                 Seven (seven)                                                            Theme   Enabled        7.53                 
+ Core                                 Stark (stark)                                                            Theme   Disabled       7.53                 
+
